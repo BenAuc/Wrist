@@ -1,0 +1,4 @@
+-Open with fritzing.0.9.3b.64
+-Load the libraries from
+	-Adafruit: https://github.com/adafruit/Fritzing-Library/blob/master/parts/Adafruit%20ICM20948.fzpz
+	-For buck conversor: https://forum.fritzing.org/t/lm2596-step-down-module/6380
